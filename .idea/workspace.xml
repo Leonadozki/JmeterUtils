@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13fd5a8f-f35b-4213-be8f-9e656c1ef257" name="Default Changelist" comment="" />
+    <list default="true" id="13fd5a8f-f35b-4213-be8f-9e656c1ef257" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jmeter/functions/FunctionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jmeter/demo/JmeterFullTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jmeter/demo/JmeterFullTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jmeter/demo/JmeterFullTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jmeter/demo/JmeterFullTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +23,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -60,19 +68,27 @@
       <updated>1585041489266</updated>
       <workItem from="1585041492747" duration="5580000" />
       <workItem from="1585062372222" duration="458000" />
-      <workItem from="1585062869974" duration="11330000" />
+      <workItem from="1585062869974" duration="13856000" />
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="453" y="112" key="#com.intellij.ide.util.MemberChooser" timestamp="1585142307012">
+    <state x="453" y="112" key="#com.intellij.ide.util.MemberChooser" timestamp="1585297069500">
       <screen x="0" y="23" width="1280" height="730" />
     </state>
-    <state x="453" y="112" key="#com.intellij.ide.util.MemberChooser/0.23.1280.730@0.23.1280.730" timestamp="1585142307012" />
+    <state x="453" y="112" key="#com.intellij.ide.util.MemberChooser/0.23.1280.730@0.23.1280.730" timestamp="1585297069500" />
     <state x="453" y="112" key="#com.intellij.ide.util.MemberChooser/0.23.1280.732@0.23.1280.732" timestamp="1585127270425" />
     <state x="119" y="32" key="SettingsEditor" timestamp="1585130705570">
       <screen x="0" y="23" width="1280" height="732" />
     </state>
     <state x="119" y="32" key="SettingsEditor/0.23.1280.732@0.23.1280.732" timestamp="1585130705570" />
+    <state x="429" y="312" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585297810756">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state x="429" y="312" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.730@0.23.1280.730" timestamp="1585297810756" />
+    <state x="305" y="173" width="670" height="675" key="run.anything.popup" timestamp="1585236737535">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state x="305" y="173" width="670" height="675" key="run.anything.popup/0.23.1280.730@0.23.1280.730" timestamp="1585236737535" />
   </component>
 </project>

@@ -40,9 +40,17 @@ public class JmeterFullTest implements JavaSamplerClient {
     }
 
     public SampleResult runTest(JavaSamplerContext javaSamplerContext) {
+        SampleResult sampleResult = new SampleResult();
         Integer randomNum = new Random().nextInt(100);
         System.out.println("random number is " + randomNum);
-        return null;
+        String result = "result is " + randomNum;
+        // 设置响应数据
+        sampleResult.setResponseData(result, null);
+        // 需设置响应结果数据格式，这里是文本
+        sampleResult.setDataType(SampleResult.TEXT);
+        // 告诉响应结果树结果是否正确
+        sampleResult.setSuccessful(true);
+        return sampleResult;
     }
 
     public void teardownTest(JavaSamplerContext javaSamplerContext) {
